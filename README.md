@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eman-69
+- 👋 Hi, I’m Emmanuel Joshy
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning CS engineering
 <!---
