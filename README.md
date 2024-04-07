@@ -1,24 +1,25 @@
-- 👋 Hi, I’m Emmanuel Joshy
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning CS engineering
+<html>
+  <head>
+      <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+  </head>
+<body>
+I'm Emmanuel Joshy,
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eman-69&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
-# Hello, World! 👋
-
-I'm [Your Name], a passionate [Your Role/Title] from [Your Location]. 
-
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Tool]
-- 👯 I’m looking to collaborate on [Project/Interest]
-- 💬 Ask me about [Anything]
-- 📫 How to reach me: [Your Email/Website/LinkedIn/Twitter]
+- 🔭 I’m currently 4th year student in N.M.A.M. Institute of Technology, Nitte
+- 📫 How to reach me: emmanuelpoulose@gmail.com
 
 ## Languages and Tools
 
-- [Language/Tool 1]
-- [Language/Tool 2]
-- [Language/Tool 3]
+<i class="ci ci-react ci-5x"></i>
+<i class="ci ci-nuxtjs ci-5x"></i>
+<i class="ci ci-node ci-5x"></i>
+<i class="ci ci-express ci-5x"></i>
+<i class="ci ci-git ci-5x"></i>
+<i class="ci ci-postman ci-5x"></i>
+<i class="ci ci-moongodb ci-5x"></i>
 
 ## Projects
 
@@ -35,6 +36,10 @@ I'm [Your Name], a passionate [Your Role/Title] from [Your Location].
 ## Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eman-69&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eman-69&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</body>
+</html>
+
 
 
 <!---
