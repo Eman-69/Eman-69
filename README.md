@@ -12,7 +12,6 @@ I'm Emmanuel Joshy,
 - 📫 How to reach me: emmanuelpoulose@gmail.com
 
 ## Languages and Tools
-
 <i class="ci ci-react ci-5x"></i>
 <i class="ci ci-nuxtjs ci-5x"></i>
 <i class="ci ci-node ci-5x"></i>
