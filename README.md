@@ -5,9 +5,9 @@ I'm Emmanuel Joshy,
 - 📫 How to reach me: emmanuelpoulose@gmail.com
 
 ## Languages and Tools
-<center>
+<center style="flex">
   <img src="techstack/Cpp.svg" width="80px"></img>
-  <img src="techstack/Java" width="80px"></img>
+  <img src="techstack/Java.svg" width="80px"></img>
   <img src="techstack/HTML5.svg" width="80px"></img>
   <img src="techstack/CSS3.svg" width="80px"></img>
   <img src="techstack/JavaScript.svg" width="80px"></img>
