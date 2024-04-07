@@ -18,7 +18,7 @@ I'm Emmanuel Joshy,
     <img src="techstack/HTML5.svg" width="50px"></img>
     <img src="techstack/CSS3.svg" width="50px"></img>
     <img src="techstack/JavaScript.svg" width="50px"></img>
-    <img src="techstack/PHP.svg" width="50px"></img>
+    <!-- <img src="techstack/PHP.svg" width="50px"></img> -->
   </div>
   <br>
   <div style="display:flex; justify-content:center;">
