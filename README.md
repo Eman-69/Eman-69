@@ -9,7 +9,7 @@ I'm Emmanuel Joshy,
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eman-69&show_icons=true&theme=radical)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eman-69&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-69&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-69&hide_progress=false)
 
 ## Languages and Tools
 <div>
