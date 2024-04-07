@@ -11,17 +11,25 @@ I'm Emmanuel Joshy,
   <img src="techstack/HTML5.svg" width="80px"></img>
   <img src="techstack/CSS3.svg" width="80px"></img>
   <img src="techstack/JavaScript.svg" width="80px"></img>
+  <img src="techstack/PHP.svg" width="80px"></img>
 </div>
-<img src="techstack/" width="80px"></img>
-<img src="techstack/" width="80px"></img>
-<img src="techstack/" width="80px"></img>
-<img src="techstack/" width="80px"></img>
-
-## Projects
-
-- [Project 1](Link)
-- [Project 2](Link)
-- [Project 3](Link)
+<div style="display:flex; justify-content:center">
+  <img src="techstack/React.svg" width="80px"></img>
+  <img src="techstack/Nuxt.svg" width="80px"></img>
+  <img src="techstack/Vue.js.svg" width="80px"></img>
+  <img src="techstack/Node.js.svg" width="80px"></img>
+  <img src="techstack/Express.svg" width="80px"></img>
+  <img src="techstack/Three.js.svg" width="80px"></img>
+  <img src="techstack/MySQL.svg" width="80px"></img>
+  <img src="techstack/MongoDB.svg" width="80px"></img>
+</div>
+<div style="display:flex; justify-content:center">
+  <img src="techstack/Linux.svg" width="80px"></img>
+  <img src="techstack/Git.svg" width="80px"></img>
+  <img src="techstack/GitLab.svg" width="80px"></img>
+  <img src="techstack/Postman.svg" width="80px"></img>
+  <img src="techstack/Blender.svg" width="80px"></img>
+</div>
 
 ## Connect with Me
 
