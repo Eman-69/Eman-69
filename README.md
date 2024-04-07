@@ -4,6 +4,12 @@ I'm Emmanuel Joshy,
 - 🔭 I’m currently 4th year student in N.M.A.M. Institute of Technology, Nitte
 - 📫 How to reach me: emmanuelpoulose@gmail.com
 
+
+## Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eman-69&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eman-69&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
 ## Languages and Tools
 <div>
   <div style="display:flex; justify-content:center;">
@@ -37,14 +43,8 @@ I'm Emmanuel Joshy,
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](YourLinkedInLink)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](YourTwitterLink)
-[![Website](https://img.shields.io/badge/Website-YourWebsite-blue)](YourWebsiteLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/emmanuel-joshy/)
 
-## Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eman-69&show_icons=true&theme=radical)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eman-69&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
 
