@@ -43,7 +43,7 @@ I'm Emmanuel Joshy,
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/emmanuel-joshy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Joshy-blue)](https://www.linkedin.com/in/emmanuel-joshy/)
 
 
 
