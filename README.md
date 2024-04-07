@@ -6,7 +6,7 @@ I'm Emmanuel Joshy,
 
 ## Languages and Tools
 <div>
-  <div style="display:flex; justify-content:center">
+  <div style="display:flex; justify-content:center;">
     <img src="techstack/Cpp.svg" width="80px"></img>
     <img src="techstack/Java.svg" width="80px"></img>
     <img src="techstack/HTML5.svg" width="80px"></img>
@@ -14,7 +14,8 @@ I'm Emmanuel Joshy,
     <img src="techstack/JavaScript.svg" width="80px"></img>
     <img src="techstack/PHP.svg" width="80px"></img>
   </div>
-  <div style="display:flex; justify-content:center">
+  <br>
+  <div style="display:flex; justify-content:center;">
     <img src="techstack/React.svg" width="80px"></img>
     <img src="techstack/Nuxt.svg" width="80px"></img>
     <img src="techstack/Vue.js.svg" width="80px"></img>
@@ -24,7 +25,8 @@ I'm Emmanuel Joshy,
     <img src="techstack/MySQL.svg" width="80px"></img>
     <img src="techstack/MongoDB.svg" width="80px"></img>
   </div>
-  <div style="display:flex; justify-content:center">
+  <br>
+  <div style="display:flex; justify-content:center;">
     <img src="techstack/Linux.svg" width="80px"></img>
     <img src="techstack/Git.svg" width="80px"></img>
     <img src="techstack/GitLab.svg" width="80px"></img>
