@@ -7,31 +7,31 @@ I'm Emmanuel Joshy,
 ## Languages and Tools
 <div>
   <div style="display:flex; justify-content:center;">
-    <img src="techstack/Cpp.svg" width="80px"></img>
-    <img src="techstack/Java.svg" width="80px"></img>
-    <img src="techstack/HTML5.svg" width="80px"></img>
-    <img src="techstack/CSS3.svg" width="80px"></img>
-    <img src="techstack/JavaScript.svg" width="80px"></img>
-    <img src="techstack/PHP.svg" width="80px"></img>
+    <img src="techstack/Cpp.svg" width="50px"></img>
+    <img src="techstack/Java.svg" width="50px"></img>
+    <img src="techstack/HTML5.svg" width="50px"></img>
+    <img src="techstack/CSS3.svg" width="50px"></img>
+    <img src="techstack/JavaScript.svg" width="50px"></img>
+    <img src="techstack/PHP.svg" width="50px"></img>
   </div>
   <br>
   <div style="display:flex; justify-content:center;">
-    <img src="techstack/React.svg" width="80px"></img>
-    <img src="techstack/Nuxt.svg" width="80px"></img>
-    <img src="techstack/Vue.js.svg" width="80px"></img>
-    <img src="techstack/Node.js.svg" width="80px"></img>
-    <img src="techstack/Express.svg" width="80px"></img>
-    <img src="techstack/Three.js.svg" style="fill:grey;" width="80px"></img>
-    <img src="techstack/MySQL.svg" width="80px"></img>
-    <img src="techstack/MongoDB.svg" width="80px"></img>
+    <img src="techstack/React.svg" width="50px"></img>
+    <img src="techstack/Nuxt.svg" width="50px"></img>
+    <img src="techstack/Vue.js.svg" width="50px"></img>
+    <img src="techstack/Node.js.svg" width="50px"></img>
+    <img src="techstack/Express.svg" width="50px"></img>
+    <img src="techstack/Three.js.svg" style="fill:grey;" width="50px"></img>
+    <img src="techstack/MySQL.svg" width="50px"></img>
+    <img src="techstack/MongoDB.svg" width="50px"></img>
   </div>
   <br>
   <div style="display:flex; justify-content:center;">
-    <img src="techstack/Linux.svg" width="80px"></img>
-    <img src="techstack/Git.svg" width="80px"></img>
-    <img src="techstack/GitLab.svg" width="80px"></img>
-    <img src="techstack/Postman.svg" width="80px"></img>
-    <img src="techstack/Blender.svg" width="80px"></img>
+    <img src="techstack/Linux.svg" width="50px"></img>
+    <img src="techstack/Git.svg" width="50px"></img>
+    <img src="techstack/GitLab.svg" width="50px"></img>
+    <img src="techstack/Postman.svg" width="50px"></img>
+    <img src="techstack/Blender.svg" width="50px"></img>
   </div>
 </div>
 
