@@ -5,7 +5,7 @@ I'm Emmanuel Joshy,
 - 📫 How to reach me: emmanuelpoulose@gmail.com
 
 ## Languages and Tools
-<div style="background-color:grey;">
+<div style="background:grey;">
   <div style="display:flex; justify-content:center">
     <img src="techstack/Cpp.svg" width="80px"></img>
     <img src="techstack/Java.svg" width="80px"></img>
