@@ -5,7 +5,7 @@ I'm Emmanuel Joshy,
 - 📫 How to reach me: emmanuelpoulose@gmail.com
 
 ## Languages and Tools
-<div style="background:grey;">
+<div>
   <div style="display:flex; justify-content:center">
     <img src="techstack/Cpp.svg" width="80px"></img>
     <img src="techstack/Java.svg" width="80px"></img>
@@ -20,7 +20,7 @@ I'm Emmanuel Joshy,
     <img src="techstack/Vue.js.svg" width="80px"></img>
     <img src="techstack/Node.js.svg" width="80px"></img>
     <img src="techstack/Express.svg" width="80px"></img>
-    <img src="techstack/Three.js.svg" width="80px"></img>
+    <img src="techstack/Three.js.svg" style="fill:grey;" width="80px"></img>
     <img src="techstack/MySQL.svg" width="80px"></img>
     <img src="techstack/MongoDB.svg" width="80px"></img>
   </div>
