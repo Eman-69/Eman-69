@@ -5,7 +5,7 @@ I'm Emmanuel Joshy,
 - 📫 How to reach me: emmanuelpoulose@gmail.com
 
 ## Languages and Tools
-<img href="techstack/HTML5.svg"></img>
+<img href="/techstack/HTML5.svg"></img>
 <img href="techstack/"></img>
 <img href="techstack/"></img>
 <img href="techstack/"></img>
